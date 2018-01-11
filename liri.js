@@ -202,7 +202,7 @@ else {
 						if(command === "spotify-this-song") {
 							function runSpotify(song) {
 								if(!song) {
-									song = "The Sign";
+									song = "The Sign Ace of Base";
 								}
 
 								spotify.search({type: "track", query: song, limit: 1}, function(err, data) {
@@ -249,7 +249,7 @@ else {
 
 							function runSpotifyAuto(song) {
 								if(!song) {
-									song = "The Sign";
+									song = "The Sign Ace of Base";
 								}
 
 								spotify.search({type: "track", query: song, limit: 1}, function(err, data) {
