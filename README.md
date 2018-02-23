@@ -20,7 +20,7 @@ LIRI also utilizes a built-in log so the local program administrator can see eac
 
 ## How to Use
 
-Clone the repo locally and type `npm install` to install all node dependencies locally. Then simply type `node liri.js` into your CLI and have fun! 
+Clone the repo locally and type `npm install` to install all node dependencies locally. Then simply type `node liri.js` into your terminal and have fun! 
 
 ## Demo 
 
