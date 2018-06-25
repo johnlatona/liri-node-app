@@ -1,0 +1,10 @@
+
+====== New Session Started ======
+
+1) spotify-this-song
+{
+  "artist": "Oasis",
+  "album": "(What's The Story) Morning Glory? (Deluxe Edition) [Remastered]",
+  "song_name": "Wonderwall - Remastered",
+  "preview_link": "https://p.scdn.co/mp3-preview/658627c1c2fb5f9a89ce556ead028b7cebd297c6?cid=5778778333c144fe8d3472c63526c254"
+}
